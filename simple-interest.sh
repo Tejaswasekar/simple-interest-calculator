@@ -1,7 +1,7 @@
 #!/bin/bash
-echo "Enter Principal:"
+echo "Enter Principal Value:"
 read p
-echo "Enter Rate of Interest:"
+echo "Enter Rate of Intrest Value:"
 read r
 echo "Enter Time (in years):"
 read t
